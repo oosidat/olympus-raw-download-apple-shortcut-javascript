@@ -1,2 +1,21 @@
-# olympus-raw-download-apple-shortcut-javascript
-Steps for building an Apple Shortcut to help download RAW images from your Olympus camera over Wi-fi
+# Apple JavaScript Shortcut for downloading RAW files from Olympus cameras
+
+* Tested on: Olympus PEN-F
+
+## Background
+
+## Setting up the Apple Shortcut
+
+https://support.apple.com/en-ca/guide/shortcuts/apdb71a01d93/ios
+
+(add screenshot)
+
+## Accessing the webpage and executing the JavaScript
+
+(wip)
+
+
+## Resources
+
+- [Cascable](https://cascable.se/)
+- https://github.com/MSGEndo/OLYMPUSWIFI
